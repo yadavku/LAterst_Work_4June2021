@@ -1,2 +1,4 @@
 this is sample file 1 :new
 this is for Main.
+modification in file 1 for stash test
+modification in file 11 for stash test
